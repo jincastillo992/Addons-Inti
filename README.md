@@ -23,7 +23,7 @@ El Addon Control Panel (ACP) es una herramienta esencial que permite gestionar, 
 [Descargar](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/ACP.zip)
 
 ## DBM
-Deadly Boss Mods (DBM) es un complemento esencial que proporciona alertas visuales y sonoras sobre las mecánicas cruciales de los jefes en bandas y mazmorras, como temporizadores de habilidades, avisos de quién necesita moverse o agruparse (Heads-Up Display), y mensajes de spam filtrados, ayudando a los jugadores a reaccionar a tiempo para sobrevivir y cumplir objetivos, siendo indispensable para el contenido de nivel máximo como Icecrown Citadel (ICC) en esa versión del juego.
+Deadly Boss Mods (DBM) es un complemento esencial que proporciona alertas visuales y sonoras sobre las mecánicas cruciales de los jefes en bandas y mazmorras, como temporizadores de habilidades, avisos de quién necesita moverse o agruparse (Heads-Up Display), y mensajes de spam filtrados, ayudando a los jugadores a reaccionar a tiempo para sobrevivir y cumplir objetivos, siendo indispensable para el contenido de nivel máximo como Icecrown Citadel (ICC) en esa versión del juego. __INDISPENSABLE PARA RAIDEAR__
 
 [Descargar](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/DIBIEMpingonus.zip)
 
@@ -53,8 +53,15 @@ Skada es un popular medidor de daño (damage meter), diseñado para ser ligero, 
 
 [Descargar](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/Skada.rar)
 
+## WeakAuras
+_(Créditos a [NoM0Re](https://github.com/NoM0Re))_
+
+WeakAuras es un potente addon de interfaz (UI) que permite crear o importar alertas visuales, iconos, barras de progreso y sonidos personalizados para rastrear buffs, debuffs, tiempos de reutilización (CDs) y recursos. Es esencial para optimizar el rendimiento en combate, facilitando la gestión de rotaciones y habilidades.
+
+[Descargar](https://github.com/NoM0Re/WeakAuras-WotLK/archive/refs/heads/master.zip)
+
 - [ ] Agregar imagenes Addons
-- [ ] Usar Markdown
+
 <!-- 
 # Título 1
 ## Título 2
