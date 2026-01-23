@@ -43,10 +43,18 @@ _(Créditos a [El Mapache Warmane](https://www.youtube.com/@El_Mapache_Warmane))
 Este parche es una guía técnica y visual diseñada para ayudar a los jugadores de World of Warcraft a mejorar su desempeño en la banda de Icecrown Citadel (ICC) mediante la instalación de un parche de texturas. 
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/IFcXfJmUxto)](https://www.youtube.com/watch?v=IFcXfJmUxto)
+
 [Descargar para cliente **NO HD**](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/patch-y(noHD).rar)
 
 [Descargar para cliente **HD**](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/patch-y(HD).rar)
 
+## Skada
+Skada es un popular medidor de daño (damage meter), diseñado para ser ligero, eficiente con la memoria y la CPU, y altamente modular. A diferencia de Recount, Skada ofrece una configuración más detallada, combates segmentados y permite múltiples ventanas para rastrear simultáneamente DPS, sanación, amenazas (threat) y disipaciones.
+
+[Descargar](https://github.com/jincastillo992/Addons-Inti/raw/refs/heads/main/src/Addons/Skada.rar)
+
+- [ ] Agregar imagenes Addons
+- [ ] Usar Markdown
 <!-- 
 # Título 1
 ## Título 2
